@@ -1,0 +1,269 @@
+﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="7a54269b-6ee1-43e7-9c06-fa10e98ddb50" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>Dim Payment</ID>
+  <Name>Dim Payment</Name>
+  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <Annotations>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
+      <Value>
+        <dds xmlns="">
+          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="3" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-1060" scrolltop="-3651" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="8170" y="9398" backcolor="2039583" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
+            <font>
+              <ddsxmlobjectstreamwrapper binary="010000009001b0300100065461686f6d61" />
+            </font>
+            <mouseicon>
+              <ddsxmlobjectstreamwrapper binary="6c74000000000000" />
+            </mouseicon>
+          </diagram>
+          <layoutmanager>
+            <ddsxmlobj />
+          </layoutmanager>
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="DimPayment" left="-890" top="-318" logicalid="2" controlid="1" masterid="0" hint1="0" hint2="0" width="3239" height="3747" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobjectstreaminitwrapper binary="000e0000a70c0000a30e0000" />
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dbo_DimPayment" vartype="8" />
+              </ddsxmlobj>
+            </layoutobject>
+            <shape groupshapeid="0" groupnode="0" />
+          </ddscontrol>
+        </dds>
+      </Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowRelationshipNames</Name>
+      <Value>false</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:UseDiagramDefaultLayout</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortLeft</Name>
+      <Value>-1060</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortTop</Name>
+      <Value>-3651</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingLeft</Name>
+      <Value>-890</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingTop</Name>
+      <Value>-318</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramZoom</Name>
+      <Value>100</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ARDiagramLayout</Name>
+      <Value>
+        <DiagramLayout ZoomPercent="100" ViewPortX="0" ViewPortY="0" xmlns="">
+          <Shapes NodeWidth="146">
+            <Shape Id="Payment SK" Expanded="true">
+              <Attributes>
+                <Attribute Id="Payment SK" />
+                <Attribute Id="End Date" />
+                <Attribute Id="Insertdate" />
+                <Attribute Id="Modifieddate" />
+                <Attribute Id="Payment ID" />
+                <Attribute Id="Start Date" />
+              </Attributes>
+              <Position x="20" y="20" />
+            </Shape>
+            <Shape Id="Payment Status" Expanded="false">
+              <Attributes>
+                <Attribute Id="Payment Status" />
+              </Attributes>
+              <Position x="207" y="20" />
+            </Shape>
+            <Shape Id="Payment Method" Expanded="false">
+              <Attributes>
+                <Attribute Id="Payment Method" />
+              </Attributes>
+              <Position x="395" y="20" />
+            </Shape>
+          </Shapes>
+        </DiagramLayout>
+      </Value>
+    </Annotation>
+  </Annotations>
+  <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+  <State>Unprocessed</State>
+  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="3aaeff33-d8d0-48ff-8ace-c32648a2f098">
+    <DataSourceViewID>Views_Hos_DW</DataSourceViewID>
+  </Source>
+  <ErrorConfiguration dwd:design-time-name="830008f2-c71d-4d89-b2fd-eef44fbeb4a8">
+    <KeyNotFound>ReportAndStop</KeyNotFound>
+    <KeyDuplicate>ReportAndStop</KeyDuplicate>
+    <NullKeyNotAllowed>ReportAndStop</NullKeyNotAllowed>
+  </ErrorConfiguration>
+  <CurrentStorageMode>Molap</CurrentStorageMode>
+  <Attributes>
+    <Attribute dwd:design-time-name="574b9c1a-64c7-4649-ab7d-458c6acbdf13">
+      <ID>Payment SK</ID>
+      <Name>Payment SK</Name>
+      <Usage>Key</Usage>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="c5176b22-ffd8-4f1b-b42c-8a390847565b">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="1d43db0e-1917-4c03-a2a9-1af575105bb6">
+            <TableID>dbo_DimPayment</TableID>
+            <ColumnID>PaymentSK</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <AttributeRelationships>
+        <AttributeRelationship dwd:design-time-name="b28bfaa3-9044-4bc1-8df4-e3d63e570f5f">
+          <AttributeID>Payment ID</AttributeID>
+          <Name>Payment ID</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="20b73497-adc9-4898-8024-83d2038bf1fd">
+          <AttributeID>Start Date</AttributeID>
+          <Name>StartDate</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="cbee4342-a3f1-4e28-9fee-13a891be0db5">
+          <AttributeID>End Date</AttributeID>
+          <Name>EndDate</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="5cd7493c-7993-48e3-aa0d-1f9ba82a09e2">
+          <AttributeID>Modifieddate</AttributeID>
+          <Name>modifieddate</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="31ebbbf1-c357-4cb0-b2bf-580afb88c9f7">
+          <AttributeID>Insertdate</AttributeID>
+          <Name>insertdate</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="4c471e5a-edec-49f3-95f4-2cef30126bad">
+          <AttributeID>Payment Method</AttributeID>
+          <Name>Payment Method</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="c601b62d-49cd-4710-a14f-7111f64ade44">
+          <AttributeID>Payment Status</AttributeID>
+          <Name>Payment Status</Name>
+        </AttributeRelationship>
+      </AttributeRelationships>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="dabf8623-1639-47cd-b6bf-da17d1dcae29">
+      <ID>Payment ID</ID>
+      <Name>Payment ID</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="5aee80a5-a021-493b-a7dc-939250e1429f">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="a2274662-51c7-42b3-bc51-3f539981fdfc">
+            <TableID>dbo_DimPayment</TableID>
+            <ColumnID>PaymentID</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="5720e179-5d2f-4cf3-af60-39bbad868f54">
+      <ID>Start Date</ID>
+      <Name>StartDate</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="a3021e17-ad68-408d-a1d3-c0f921666d18">
+          <DataType>Date</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="8ca886b0-5cc7-4950-8c5e-37304796a701">
+            <TableID>dbo_DimPayment</TableID>
+            <ColumnID>StartDate</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="1b2e409c-2419-43fe-8ea6-08391bb112e7">
+      <ID>End Date</ID>
+      <Name>EndDate</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="9034d557-5b07-46ba-901e-83b07a41592e">
+          <DataType>Date</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="c5c1c9ec-8cd2-4207-92b3-7570be0ad0a7">
+            <TableID>dbo_DimPayment</TableID>
+            <ColumnID>EndDate</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="076e1214-9ed5-47e7-921b-9644c6ef7156">
+      <ID>Modifieddate</ID>
+      <Name>modifieddate</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="ec2a5380-c320-4cc9-9fd5-68a41747a6c4">
+          <DataType>Date</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="9d69f593-43cf-42bd-a860-ec6b100b0283">
+            <TableID>dbo_DimPayment</TableID>
+            <ColumnID>modifieddate</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="6b7534a0-4cea-4b1f-ad78-e37929856306">
+      <ID>Insertdate</ID>
+      <Name>insertdate</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="aba760fc-483e-4ec6-9fe9-c3f0f1129173">
+          <DataType>Date</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="95f876b8-fe3e-4145-a492-7d54018b4c16">
+            <TableID>dbo_DimPayment</TableID>
+            <ColumnID>insertdate</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="93e18b71-ed32-4eb2-b1e1-324a9999849c">
+      <ID>Payment Method</ID>
+      <Name>Payment Method</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="f1416f46-bf9f-42aa-927b-43857c0149ae">
+          <DataType>WChar</DataType>
+          <DataSize>30</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="e3fd0555-a6fc-4dc3-b931-4d3ae2def573">
+            <TableID>dbo_DimPayment</TableID>
+            <ColumnID>PaymentMethod</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="2cf99ed2-bc26-49a4-a222-2bcd65fefee4">
+      <ID>Payment Status</ID>
+      <Name>Payment Status</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="68397129-3a55-4179-95ae-54043d32c225">
+          <DataType>WChar</DataType>
+          <DataSize>20</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="556fafa9-cbea-4da2-b191-a724c5a04e6b">
+            <TableID>dbo_DimPayment</TableID>
+            <ColumnID>PaymentStatus</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+  </Attributes>
+  <ddl300:ProcessingState>Unprocessed</ddl300:ProcessingState>
+</Dimension>

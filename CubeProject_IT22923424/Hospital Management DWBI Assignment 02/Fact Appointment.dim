@@ -1,0 +1,181 @@
+﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="869cfcc4-62f0-4408-961f-4e603703b8d8" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>Fact Appointment</ID>
+  <Name>Fact Appointment</Name>
+  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <Annotations>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowRelationshipNames</Name>
+      <Value>false</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:UseDiagramDefaultLayout</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortLeft</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortTop</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingLeft</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingTop</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramZoom</Name>
+      <Value>100</Value>
+    </Annotation>
+  </Annotations>
+  <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+  <State>Unprocessed</State>
+  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="13ec51a8-71a5-44a7-9784-9122863478b8">
+    <DataSourceViewID>Views_Hos_DW</DataSourceViewID>
+  </Source>
+  <ErrorConfiguration dwd:design-time-name="6732d3de-7d50-46f5-9a6c-eb28f3470f8f">
+    <KeyNotFound>ReportAndStop</KeyNotFound>
+    <KeyDuplicate>ReportAndStop</KeyDuplicate>
+    <NullKeyNotAllowed>ReportAndStop</NullKeyNotAllowed>
+  </ErrorConfiguration>
+  <CurrentStorageMode>Molap</CurrentStorageMode>
+  <Attributes>
+    <Attribute dwd:design-time-name="c3652f45-3c99-455f-865e-2286fc484510">
+      <ID>Appointment SK</ID>
+      <Name>Appointment SK</Name>
+      <Usage>Key</Usage>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="a0ddd980-5626-4f15-bf1a-6ebc886dec3b">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="0e449aec-3463-485e-8074-e51b21b7bb5d">
+            <TableID>dbo_FactAppointment</TableID>
+            <ColumnID>AppointmentSK</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <AttributeRelationships>
+        <AttributeRelationship dwd:design-time-name="dcc112ba-a0b4-4cc6-b74c-c925bd6cfdb4">
+          <AttributeID>Payment SK</AttributeID>
+          <Name>Payment SK</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="d0c7f2a2-a918-4ea3-9342-27d05df36f99">
+          <AttributeID>Patient SK</AttributeID>
+          <Name>Patient SK</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="f55117e6-736a-4b11-ac51-eedf5a437bd8">
+          <AttributeID>Date Key</AttributeID>
+          <Name>Date Key</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="044dae3d-5e54-480f-a86b-625fe8187f9d">
+          <AttributeID>Department SK</AttributeID>
+          <Name>Department SK</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="ed834ef2-7455-4feb-9a75-c9cacb566bbd">
+          <AttributeID>Doctor SK</AttributeID>
+          <Name>Doctor SK</Name>
+        </AttributeRelationship>
+      </AttributeRelationships>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="d23fa86f-75fb-4309-ada6-ebdeb09dd7fd">
+      <ID>Payment SK</ID>
+      <Name>Payment SK</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="6854548d-18cd-46bc-95f5-e95f006c5668">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="90222470-1ab4-4e5b-bc19-9b813cab48bd">
+            <TableID>dbo_FactAppointment</TableID>
+            <ColumnID>PaymentSK</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="bda4356f-4884-4cfe-bf21-23177c81c0a2">
+      <ID>Patient SK</ID>
+      <Name>Patient SK</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="426742ee-9777-4c03-a684-0fb54d00f308">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="c123ce2c-d20b-416d-bc6c-296c87506d15">
+            <TableID>dbo_FactAppointment</TableID>
+            <ColumnID>PatientSK</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="416a13be-9293-4c3f-9d5c-4005bd789ad1">
+      <ID>Date Key</ID>
+      <Name>Date Key</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="4d994b1f-9ac0-4b7f-87ff-e01c8189b7fc">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="e4936ea8-9b98-4b56-8af5-634d791bf6d3">
+            <TableID>dbo_FactAppointment</TableID>
+            <ColumnID>DateKey</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="96d82b93-b6b2-4f7a-8c3c-451096e5313a">
+      <ID>Department SK</ID>
+      <Name>Department SK</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="c8940a62-048d-401f-8ce5-23ca144e7618">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="1960cd24-850a-4a89-bdf5-811745dbfb37">
+            <TableID>dbo_FactAppointment</TableID>
+            <ColumnID>DepartmentSK</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="a53c1298-22c9-4d2a-8193-860800229cd3">
+      <ID>Doctor SK</ID>
+      <Name>Doctor SK</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="87187442-7a4d-4845-ad31-0d52a7e25d44">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="9042a45f-5738-4b36-a8b9-3f683ec5c2a5">
+            <TableID>dbo_FactAppointment</TableID>
+            <ColumnID>DoctorSK</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+  </Attributes>
+  <ddl300:ProcessingState>Unprocessed</ddl300:ProcessingState>
+</Dimension>

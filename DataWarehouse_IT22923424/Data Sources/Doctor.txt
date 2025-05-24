@@ -1,0 +1,1001 @@
+doctor_id	name	specialization	department_id
+101	Rachel Guerrero	Orthopedic	7
+102	Joel Clark	Orthopedic	4
+103	Sean Martin	Oncologist	8
+104	Michelle Maddox	Cardiologist	4
+105	Lauren Odonnell	Pediatrician	2
+106	Helen Gilbert	Psychiatrist	7
+107	Mark Tapia	Pediatrician	2
+108	Ian Dean	Neurologist	2
+109	Taylor Harmon	Neurologist	2
+110	Ann Yu	Dermatologist	1
+111	Bryce Chase	Dermatologist	3
+112	Mark Walker	Oncologist	8
+113	Amanda Powell	Orthopedic	8
+114	Randall Page	Oncologist	5
+115	Jennifer Shelton	Dermatologist	8
+116	Mia Brewer MD	Pediatrician	7
+117	Laura Wilson	ENT Specialist	6
+118	Andrea Harrison	ENT Specialist	3
+119	Karen Mcintosh PhD	ENT Specialist	8
+120	Timothy Schneider	Orthopedic	8
+121	Brandy Green	Pediatrician	6
+122	Karen Lyons	Pediatrician	3
+123	Robin Miller	Cardiologist	3
+124	Valerie Schneider	Orthopedic	1
+125	Nicole Russell	Oncologist	8
+126	Ashley Wilcox DVM	Dermatologist	1
+127	Andrew Spencer	Cardiologist	7
+128	Brandi Fernandez	Cardiologist	6
+129	Amy Bailey	Neurologist	6
+130	Alexandra Gillespie	Orthopedic	4
+131	Emma Manning	ENT Specialist	3
+132	Shane Barrett	Cardiologist	1
+133	Tim Kelly	Oncologist	7
+134	Christopher Aguilar	ENT Specialist	3
+135	Jason Cooper	Pediatrician	1
+136	Christopher Vega	Pediatrician	1
+137	Martin Smith	Psychiatrist	4
+138	William Walker	Pediatrician	2
+139	Wanda Medina	Neurologist	6
+140	Regina Castro	Orthopedic	1
+141	Barbara Ramirez	Neurologist	4
+142	Margaret Ramos	Pediatrician	1
+143	Justin Davis	Cardiologist	2
+144	Tanya Wise	Dermatologist	4
+145	Ann Flynn	Neurologist	8
+146	David Hernandez	Psychiatrist	8
+147	Curtis Hayes	Pediatrician	4
+148	Sara Sherman	Oncologist	1
+149	Allen Smith	Oncologist	2
+150	Jon Holden	Psychiatrist	8
+151	Gary Rowland	ENT Specialist	6
+152	Peggy Brown	Pediatrician	6
+153	Joe Williams	Dermatologist	3
+154	Rebecca Wilson	Psychiatrist	1
+155	Michael Grant	Cardiologist	2
+156	Pamela Ramirez	Oncologist	1
+157	Justin Lopez	Orthopedic	5
+158	Deborah Nunez	Oncologist	1
+159	Brian Gutierrez	Neurologist	5
+160	Craig Miller	Neurologist	8
+161	Albert Russell DVM	Dermatologist	4
+162	Deborah Armstrong	Orthopedic	4
+163	Nathan Hernandez	ENT Specialist	2
+164	Benjamin Martin	Dermatologist	6
+165	Christine Norris	Neurologist	3
+166	Jonathan Pena	Pediatrician	4
+167	Kimberly Rojas	Pediatrician	1
+168	Matthew Wright	ENT Specialist	1
+169	Shelly Bray	Psychiatrist	1
+170	Dylan Edwards	ENT Specialist	8
+171	Alex Mack	Dermatologist	5
+172	Michael Espinoza	ENT Specialist	5
+173	Brandon Kennedy	Oncologist	8
+174	Christopher Jones	ENT Specialist	8
+175	Mark Miranda	Oncologist	8
+176	Stephanie Johnson	Psychiatrist	6
+177	Catherine Patton	Neurologist	7
+178	David Golden	Cardiologist	4
+179	Judy Wilkins	Cardiologist	7
+180	Megan Wolf	Psychiatrist	2
+181	Jennifer Cohen	Neurologist	2
+182	Gabriel Jones	Pediatrician	4
+183	Jeremy Chang MD	Pediatrician	4
+184	Taylor Stein	Neurologist	3
+185	Christina Wilson	Oncologist	5
+186	Brad Johnson	Psychiatrist	4
+187	Robin Thomas	Dermatologist	3
+188	Debbie Jordan	Psychiatrist	5
+189	Amy Wilcox	ENT Specialist	5
+190	Tamara Reilly	Cardiologist	5
+191	William Gonzalez	Dermatologist	1
+192	David Mitchell	Orthopedic	6
+193	Thomas Davis	Pediatrician	6
+194	Jason Bradley	Dermatologist	4
+195	Teresa Young	Cardiologist	7
+196	Dr. Dominic Buck DDS	Pediatrician	3
+197	Shaun Romero	Oncologist	6
+198	Debra Schaefer	Neurologist	5
+199	Corey Johnson	ENT Specialist	5
+200	Jennifer Lucas	Dermatologist	8
+201	Elizabeth Allen	Dermatologist	5
+202	Troy Mccoy	Pediatrician	8
+203	Jennifer Quinn	ENT Specialist	5
+204	Catherine Lewis	ENT Specialist	8
+205	Marissa Thompson	Cardiologist	1
+206	Gloria Hall	Cardiologist	1
+207	Nancy Hicks	Cardiologist	6
+208	Michael Ferguson	Dermatologist	2
+209	Taylor Evans	Neurologist	7
+210	Timothy Garza	Neurologist	3
+211	Lori Lawson	Cardiologist	6
+212	Laurie Hayes	Pediatrician	1
+213	Vincent Douglas	Dermatologist	5
+214	James Dunn	Oncologist	8
+215	Theodore Henderson	Dermatologist	7
+216	Kyle Chang	Orthopedic	6
+217	Angela Hill	Dermatologist	1
+218	Ellen Gibbs	Orthopedic	7
+219	John Wagner	ENT Specialist	2
+220	Heidi Smith	Pediatrician	2
+221	Robert Collier	Dermatologist	4
+222	Bryan Obrien	Cardiologist	4
+223	Samantha Burnett	Cardiologist	3
+224	Heather Gomez	Psychiatrist	5
+225	Christy Reyes	Neurologist	3
+226	Linda Ellis	Neurologist	7
+227	Christine Franco	Cardiologist	7
+228	Julie Benitez	Dermatologist	5
+229	Richard Logan	Neurologist	6
+230	William Glass	Orthopedic	1
+231	Erin Reynolds	Pediatrician	3
+232	Alvin Villarreal	Orthopedic	5
+233	Tiffany Munoz	Dermatologist	8
+234	Kathryn Eaton	Dermatologist	5
+235	Elizabeth Nielsen MD	Oncologist	2
+236	Jason Mcgrath	Orthopedic	1
+237	David Schmidt	Orthopedic	7
+238	Donald Fisher	Psychiatrist	8
+239	Tara Rosales	Pediatrician	5
+240	Emily Ward	Neurologist	6
+241	Kari Garcia	ENT Specialist	7
+242	Joseph Foley	Oncologist	8
+243	James Lowe	Psychiatrist	1
+244	Kevin Lozano	Pediatrician	3
+245	Michael Rush	ENT Specialist	2
+246	Andrea Mills	Orthopedic	8
+247	Dr. Gregory Jones Jr.	Cardiologist	5
+248	Sandra Berry	Psychiatrist	6
+249	Matthew Peters	Orthopedic	2
+250	Kelly Brooks	Oncologist	4
+251	James Davidson	Orthopedic	3
+252	Michael Davis	Orthopedic	6
+253	Sandra Powell	Orthopedic	1
+254	Kevin Brock	ENT Specialist	7
+255	Melanie Tate	Oncologist	5
+256	Robin Drake	Oncologist	2
+257	John Beltran	Psychiatrist	2
+258	Michael Ross	ENT Specialist	6
+259	Christy Hall	Dermatologist	6
+260	Michelle Spencer	Psychiatrist	6
+261	Ian Stevens	Dermatologist	6
+262	Allison Lang	Orthopedic	4
+263	Jorge Smith DDS	Oncologist	1
+264	Jonathan Richards	Psychiatrist	8
+265	Christopher Fuller	Oncologist	6
+266	Jessica Myers	Cardiologist	4
+267	Matthew Decker	Neurologist	8
+268	Charles Carr	Oncologist	1
+269	Caleb Brown	ENT Specialist	7
+270	Noah Holmes	Orthopedic	3
+271	Victoria Edwards	Oncologist	8
+272	Kylie Gonzalez	Psychiatrist	8
+273	Timothy Taylor	Psychiatrist	3
+274	Tammy Miller	Neurologist	3
+275	Tammy Barker	ENT Specialist	5
+276	John Elliott	Orthopedic	5
+277	Brittany Freeman	Psychiatrist	6
+278	David Bond	Cardiologist	3
+279	Tiffany Morris	Cardiologist	1
+280	Jessica Salinas PhD	Psychiatrist	7
+281	Teresa Smith	ENT Specialist	6
+282	Elizabeth Blair	Orthopedic	8
+283	David Branch	ENT Specialist	7
+284	Mariah Hill	ENT Specialist	6
+285	Crystal Hale	Psychiatrist	1
+286	Rebecca Brown	Neurologist	8
+287	Tracy Kirk	Cardiologist	1
+288	Sara Henderson	Pediatrician	1
+289	Jasmine Kelley	Oncologist	8
+290	Tony Hughes	Psychiatrist	7
+291	Paul Jackson	ENT Specialist	5
+292	Kathryn Lopez	Cardiologist	1
+293	Adriana Davis	Pediatrician	1
+294	Victoria Ibarra	Orthopedic	1
+295	Mrs. Denise Hobbs	ENT Specialist	8
+296	Melissa Patel	Dermatologist	8
+297	Jacob Baker	Orthopedic	1
+298	Kenneth Collins	Oncologist	5
+299	Andrea Parker	Neurologist	1
+300	Brian Harris	Neurologist	1
+301	Brandy Turner	ENT Specialist	7
+302	Maria Walters	ENT Specialist	4
+303	James Weiss	Pediatrician	2
+304	Derrick Rodriguez	Dermatologist	4
+305	Eric Perez	ENT Specialist	1
+306	Carmen Moore	Pediatrician	7
+307	David Dixon	Cardiologist	6
+308	Marcia Delgado	ENT Specialist	1
+309	Margaret Berry	Psychiatrist	5
+310	Lisa Ortiz	Dermatologist	4
+311	Janice Carson	Neurologist	6
+312	Christine Gay	Pediatrician	1
+313	Jose Harvey	ENT Specialist	5
+314	Maurice Anderson	Neurologist	3
+315	Samantha May	Cardiologist	1
+316	Adam Jackson	Cardiologist	5
+317	Joshua Miles	Cardiologist	4
+318	Bobby Johnson	Psychiatrist	3
+319	Jorge Jacobs	Orthopedic	1
+320	Monique Owens	Oncologist	6
+321	David Miller	Neurologist	8
+322	Pamela Spears	Pediatrician	4
+323	Peter Ramirez	Cardiologist	2
+324	Raymond Ramirez	ENT Specialist	1
+325	Michele Walker	Pediatrician	1
+326	Jennifer Clarke	Cardiologist	4
+327	Frederick Harvey	Orthopedic	7
+328	Russell Gordon	Oncologist	7
+329	Brandon Robles	Psychiatrist	6
+330	Katherine Hoffman	Pediatrician	8
+331	James Hanson	Dermatologist	4
+332	Elaine Burnett	Psychiatrist	7
+333	Mr. Roy Boyd	Orthopedic	1
+334	Carla Espinoza	Neurologist	2
+335	Veronica Castaneda	Psychiatrist	6
+336	Sharon Silva	Pediatrician	7
+337	John Lewis	ENT Specialist	4
+338	Robert Weber	Pediatrician	4
+339	Dillon Mitchell	Orthopedic	7
+340	Kristen Rogers	Pediatrician	5
+341	Anna Brown	Orthopedic	7
+342	Ryan Lucero	Pediatrician	7
+343	Jeremy Olson MD	ENT Specialist	4
+344	Melissa Nunez	Oncologist	8
+345	Derrick Alexander	ENT Specialist	2
+346	Paul Garcia	Neurologist	8
+347	Lynn Martin	Psychiatrist	6
+348	Seth Hale	Psychiatrist	1
+349	Joel Pollard	Orthopedic	8
+350	Evan Bennett	Psychiatrist	2
+351	William Perry	Cardiologist	2
+352	Megan Leon	ENT Specialist	8
+353	Jamie Thompson	Pediatrician	6
+354	Michael Alexander	Oncologist	3
+355	Jay Parker	Oncologist	2
+356	Casey Thompson	Psychiatrist	4
+357	Amber Boone	Oncologist	2
+358	Todd Evans	ENT Specialist	1
+359	Robert Patterson	Oncologist	2
+360	Lindsay Parker	Pediatrician	5
+361	Jonathan Dixon	Dermatologist	7
+362	Michael Clark	Oncologist	6
+363	Ricky Jones	Oncologist	1
+364	Alyssa Hall	Dermatologist	2
+365	Joseph Jones	Orthopedic	7
+366	Vanessa Rodgers	Psychiatrist	2
+367	Jamie Hill	Psychiatrist	1
+368	Linda Williams	Pediatrician	7
+369	Summer Ray	Orthopedic	5
+370	Sherry Lee	Neurologist	5
+371	Charles Lloyd	Oncologist	1
+372	Michael Edwards	Pediatrician	1
+373	Kevin Norton	Pediatrician	8
+374	Michele Randolph	Oncologist	3
+375	Elizabeth Sharp	Psychiatrist	4
+376	Derek Ramos	Oncologist	2
+377	Roger Williams	Neurologist	1
+378	Gary Cannon	Psychiatrist	4
+379	Elizabeth Harris	Cardiologist	8
+380	Angela Watkins	Psychiatrist	2
+381	Megan Stone	ENT Specialist	3
+382	Nicole Fleming	Psychiatrist	2
+383	Charles Garcia	ENT Specialist	6
+384	Stephen Larson	Orthopedic	8
+385	Dr. Martin Rice III	Psychiatrist	4
+386	Daryl Lopez	Oncologist	7
+387	Amy Larson	Neurologist	3
+388	Karen Wells	Cardiologist	6
+389	Nancy Braun	Dermatologist	3
+390	Audrey Ibarra	Dermatologist	7
+391	Patrick Velasquez	Neurologist	3
+392	Karen Grant	ENT Specialist	6
+393	Michael Elliott	Psychiatrist	2
+394	Donna Campbell	Dermatologist	8
+395	Sandra Walters	Orthopedic	7
+396	Devin Young	Cardiologist	6
+397	Nicholas Snyder	Pediatrician	1
+398	Todd Valenzuela	ENT Specialist	1
+399	Jason Alvarez	Psychiatrist	4
+400	Laurie Dodson	Dermatologist	1
+401	Jeanne Baker	Dermatologist	1
+402	Danielle Stevens	Cardiologist	4
+403	Erik Larson	Orthopedic	8
+404	Ronald Hodges	Dermatologist	4
+405	Michael Bowman	Pediatrician	8
+406	Michelle Hanson	Cardiologist	2
+407	Mrs. Laura Dixon	ENT Specialist	3
+408	David Perez	Oncologist	3
+409	Daniel Bell	Pediatrician	6
+410	Candice Allen	ENT Specialist	7
+411	Charles Moore	Neurologist	2
+412	Russell Costa	ENT Specialist	3
+413	Samantha Miller	Pediatrician	4
+414	John Blevins	Neurologist	3
+415	Margaret Stevens	Pediatrician	3
+416	Susan Palmer MD	Pediatrician	5
+417	Jeffrey Copeland	Orthopedic	6
+418	Christopher Knox	Oncologist	3
+419	Mark Jackson	Neurologist	8
+420	Christine Strickland	Orthopedic	5
+421	Timothy Morris	Oncologist	2
+422	Emily Johnson	Pediatrician	3
+423	Matthew Ford	Neurologist	5
+424	Michael Williamson	Pediatrician	8
+425	Monica Meyers	Cardiologist	2
+426	Lisa Wells	Oncologist	6
+427	Joseph Bradley	Cardiologist	2
+428	Sandra Burch	Dermatologist	2
+429	Briana Williams	Psychiatrist	3
+430	Laura Harper	Orthopedic	8
+431	Chad Moody	Dermatologist	2
+432	Jonathan Jackson	Pediatrician	4
+433	Seth Murphy	Orthopedic	1
+434	James Rodriguez	Neurologist	3
+435	Andrew Chapman	ENT Specialist	3
+436	Steven Bentley	Pediatrician	3
+437	Ashley Webb	Cardiologist	7
+438	Samuel Conley	Neurologist	7
+439	Michael Kennedy	Dermatologist	2
+440	Denise Martinez	Cardiologist	8
+441	David White	Neurologist	8
+442	Pamela Green	Dermatologist	5
+443	John Reed	Neurologist	1
+444	Sarah Contreras	ENT Specialist	1
+445	April Sanchez	Psychiatrist	5
+446	Brent Morton	Dermatologist	2
+447	Tim Krueger	Dermatologist	6
+448	Timothy Brown	ENT Specialist	4
+449	Shawna Beasley	Neurologist	5
+450	Jeffrey Novak	Pediatrician	2
+451	Tracy Hodges	Psychiatrist	2
+452	Aaron Payne	Neurologist	4
+453	Vanessa Edwards	Cardiologist	5
+454	Janet Williams	Psychiatrist	2
+455	Rachel Wilson	Pediatrician	2
+456	Brian Odom	Oncologist	5
+457	Lawrence Morris	Oncologist	3
+458	Ana Rodriguez	Pediatrician	2
+459	Loretta Scott	Cardiologist	4
+460	Robert Frye	Psychiatrist	7
+461	Tabitha Gibson	Cardiologist	6
+462	Christopher Bolton	Dermatologist	3
+463	Raymond Koch	Oncologist	1
+464	Alyssa Mckenzie	ENT Specialist	4
+465	Sabrina Becker	Cardiologist	6
+466	Rebecca Moreno	Pediatrician	8
+467	Alexander Koch	Oncologist	7
+468	David Nielsen	Neurologist	1
+469	Jennifer Hoover	Psychiatrist	2
+470	Brianna Campos PhD	ENT Specialist	5
+471	Jose Butler	Orthopedic	3
+472	Jessica Clark	Orthopedic	5
+473	Alicia Warner	Oncologist	2
+474	Anna Holden	Oncologist	8
+475	Megan Matthews	Dermatologist	1
+476	Darrell Jackson	Orthopedic	2
+477	Devin Shepard	Dermatologist	2
+478	Wayne Barrett	Orthopedic	8
+479	Ms. Susan Williams	Pediatrician	3
+480	Christopher Curry	Pediatrician	5
+481	John Howell	Dermatologist	5
+482	Jenny Martinez	Pediatrician	2
+483	Vanessa Sanchez	Orthopedic	6
+484	Philip Conley	ENT Specialist	2
+485	Sylvia Brown	Orthopedic	5
+486	Bonnie Marshall	Cardiologist	4
+487	Anthony Davis	ENT Specialist	1
+488	Joseph Bentley	ENT Specialist	6
+489	Nathan Martin	Cardiologist	3
+490	Laura Weeks	Psychiatrist	6
+491	Angel Decker	Cardiologist	4
+492	Michael Jackson	Dermatologist	7
+493	Tami Quinn	Neurologist	7
+494	Stephanie Sanders	Pediatrician	7
+495	Danielle Melton	ENT Specialist	5
+496	Pamela Holt	Orthopedic	3
+497	Billy Williams	Neurologist	2
+498	Grace Hall	Cardiologist	3
+499	Leon Clayton	ENT Specialist	5
+500	Jennifer Russell	Pediatrician	4
+501	Jody Smith	Orthopedic	7
+502	Jeffrey Wood	Pediatrician	4
+503	Jackson Scott	Pediatrician	1
+504	Jason Hunt	Neurologist	7
+505	Jennifer Callahan	Dermatologist	5
+506	John Fernandez	Cardiologist	6
+507	Caitlin Bradley	Psychiatrist	6
+508	Jennifer Bartlett	ENT Specialist	6
+509	Sarah Scott	ENT Specialist	5
+510	Logan Chavez	ENT Specialist	8
+511	Pamela Zimmerman	ENT Specialist	3
+512	Wendy Bruce	Dermatologist	3
+513	Mario Curry	Neurologist	3
+514	Betty Lewis	ENT Specialist	5
+515	Gary Wilson	Neurologist	8
+516	Christopher Woods	ENT Specialist	4
+517	Mary Macdonald	ENT Specialist	8
+518	Steven Hudson	Dermatologist	2
+519	Robert Garcia	Dermatologist	8
+520	Evan Clark	Pediatrician	6
+521	Michael Meadows	Pediatrician	3
+522	Logan Armstrong	Psychiatrist	3
+523	Todd Allen	Cardiologist	7
+524	Michael Chandler	Orthopedic	8
+525	Amber Williams	Cardiologist	2
+526	Randall Stuart	Pediatrician	7
+527	Joel Powell	Psychiatrist	4
+528	Michael Payne	ENT Specialist	8
+529	Suzanne Burns	Psychiatrist	1
+530	Jeffrey Bruce	Neurologist	1
+531	Jacob Blankenship	Pediatrician	6
+532	Travis Mills	Cardiologist	6
+533	Steven Taylor	Pediatrician	4
+534	Michael Stewart	Psychiatrist	1
+535	Mathew Miller	Pediatrician	4
+536	Samantha Holland	Cardiologist	4
+537	Mr. Bill Campbell MD	Neurologist	6
+538	Anthony Arellano	Dermatologist	5
+539	Michael Zimmerman	Cardiologist	4
+540	Brandon Sanchez	Oncologist	3
+541	Melissa Richard	Neurologist	6
+542	Ryan Butler	Psychiatrist	6
+543	Patrick Michael	Neurologist	1
+544	Shannon Scott	Oncologist	5
+545	Jonathan Kim	Cardiologist	2
+546	Victoria Vega	Orthopedic	1
+547	Troy Wright	Dermatologist	7
+548	Zachary Williams	Dermatologist	2
+549	Christopher Hartman	Psychiatrist	4
+550	Denise Smith	Oncologist	8
+551	Randy Wang	Dermatologist	7
+552	Megan Thomas	Neurologist	2
+553	Sandra Gates	Pediatrician	8
+554	Carolyn Williams	Cardiologist	5
+555	John Harris	ENT Specialist	7
+556	Jonathan Harris	ENT Specialist	1
+557	Tiffany Cummings	Oncologist	3
+558	Keith Tyler	Cardiologist	5
+559	Ashley Carey	Neurologist	1
+560	Michael Ayala	ENT Specialist	7
+561	Robin Garcia	ENT Specialist	5
+562	Katie Woods	Oncologist	8
+563	Devon House	ENT Specialist	4
+564	Richard Johnson	Cardiologist	7
+565	Patrick Mccormick	Pediatrician	2
+566	Jesse Williams	Oncologist	6
+567	Isaiah Moore	Dermatologist	1
+568	Mary Edwards	Pediatrician	4
+569	Kathleen Vasquez DDS	ENT Specialist	7
+570	Michelle Dickson	Dermatologist	8
+571	Kelly Schroeder	ENT Specialist	4
+572	Sarah Gaines	Neurologist	7
+573	Mr. Jonathan Andrews	Dermatologist	2
+574	Samantha Cole	Neurologist	6
+575	Teresa Foster	Cardiologist	2
+576	Kevin Beasley	Cardiologist	6
+577	Joseph Richards	Cardiologist	2
+578	Timothy Johnson MD	Orthopedic	1
+579	Amanda Robertson	Orthopedic	4
+580	Jasmine Brewer	Dermatologist	5
+581	Crystal Horne	Dermatologist	8
+582	Susan Woods	Psychiatrist	6
+583	Douglas Wood	ENT Specialist	6
+584	Christopher Brown	Pediatrician	4
+585	Russell Warner	Neurologist	3
+586	Marcus Pacheco	Cardiologist	1
+587	Danielle Thompson	Oncologist	6
+588	Dr. Charles Henderson	Cardiologist	2
+589	Tracy Small	Orthopedic	1
+590	Brittany Douglas	Neurologist	3
+591	Leslie Fernandez	ENT Specialist	1
+592	Brandon Church	Oncologist	1
+593	Mary Beck	Psychiatrist	7
+594	Joseph Jones	Psychiatrist	1
+595	Michael Schmidt	Cardiologist	4
+596	Brianna Petersen	Cardiologist	1
+597	Stacy Watson	Dermatologist	6
+598	Jacob Martinez	Cardiologist	5
+599	Luke Porter	Neurologist	2
+600	Lauren Robertson	Dermatologist	2
+601	John Hicks	Neurologist	6
+602	Sarah Rivera	Psychiatrist	4
+603	Dr. Sheila Flores DDS	Psychiatrist	7
+604	Wyatt Jensen	Cardiologist	7
+605	Kyle Hunter	Oncologist	7
+606	Melvin Lyons	Dermatologist	8
+607	Caroline Moyer	Oncologist	4
+608	Lynn Hernandez	ENT Specialist	6
+609	Jade Jackson	Neurologist	6
+610	Benjamin Vasquez	Dermatologist	1
+611	Steven Johnson	Orthopedic	5
+612	Frank Avery	Oncologist	8
+613	Ashley Johnson	Dermatologist	2
+614	Denise Horne	Cardiologist	6
+615	Nicole Johnston	Neurologist	4
+616	Sherry Gross	Cardiologist	5
+617	Christopher Perez	Dermatologist	7
+618	Samantha Chan	Dermatologist	1
+619	Christina Fields	Psychiatrist	5
+620	Tiffany Webb	Oncologist	8
+621	Dustin Johnston	ENT Specialist	1
+622	Adrienne Gregory	ENT Specialist	4
+623	Troy Patterson	Pediatrician	2
+624	Dr. David Williams	Neurologist	4
+625	Jennifer Moore	Pediatrician	3
+626	Gabriela Campbell	ENT Specialist	3
+627	Danielle Ramirez	Cardiologist	2
+628	Adam Fletcher	Neurologist	8
+629	David Gonzalez	Psychiatrist	6
+630	Luke Gilbert	Orthopedic	2
+631	Nicole Ochoa	ENT Specialist	7
+632	Jesus Weber	ENT Specialist	8
+633	Jeffrey Martinez	Pediatrician	6
+634	Brandy Caldwell	Neurologist	7
+635	George Castillo	ENT Specialist	8
+636	Amy Wilkins	Pediatrician	4
+637	Darius Wheeler	Pediatrician	8
+638	Jessica Shah	Pediatrician	1
+639	Jacqueline Howard	Psychiatrist	6
+640	Alicia Goodwin	Psychiatrist	2
+641	Amanda Adams	Psychiatrist	6
+642	Michael Bartlett	Psychiatrist	2
+643	Jennifer Jackson	Dermatologist	2
+644	Kimberly Blair	Pediatrician	1
+645	Diane Murphy	Neurologist	1
+646	Jason Petersen	Pediatrician	1
+647	Justin Taylor	Orthopedic	7
+648	Kenneth Armstrong	Oncologist	8
+649	Kevin Green	ENT Specialist	6
+650	Rachel Martinez	Oncologist	6
+651	Heidi Reynolds	ENT Specialist	6
+652	Mary Eaton	Cardiologist	5
+653	Krista Campbell	Orthopedic	8
+654	Nicholas Henry	Psychiatrist	1
+655	Julia Thomas	Dermatologist	5
+656	Eric Flores	Pediatrician	3
+657	Alan Vincent	Neurologist	2
+658	Jesse Richards	Pediatrician	4
+659	Tyler Johns	Orthopedic	3
+660	Richard Wilcox	Psychiatrist	8
+661	Cynthia Johnson	Cardiologist	1
+662	Darrell Hutchinson	Neurologist	8
+663	Jessica Clark	Pediatrician	8
+664	Rhonda Jones	Pediatrician	2
+665	Maria Shaffer	Pediatrician	6
+666	Evan Brown	Orthopedic	7
+667	Kevin Rivera	Neurologist	1
+668	Dylan Davis	Psychiatrist	1
+669	Kendra Bailey	Psychiatrist	7
+670	Michael Smith	ENT Specialist	8
+671	Ryan Patterson	Cardiologist	3
+672	Karen Tran	Dermatologist	1
+673	Mary Roberson	Dermatologist	4
+674	Adam Allen DDS	Pediatrician	6
+675	William Shepherd	Psychiatrist	6
+676	Nancy Frost	Neurologist	5
+677	Charles Wallace	Neurologist	5
+678	John Green	Neurologist	6
+679	Margaret Harris	Dermatologist	2
+680	Randy Sullivan	Cardiologist	5
+681	Lauren Yates	ENT Specialist	6
+682	Melissa Wright	Cardiologist	6
+683	Samantha Ayers	Pediatrician	2
+684	Diana Webb	Psychiatrist	8
+685	Christian Meadows	Oncologist	6
+686	Jennifer Guzman	Pediatrician	4
+687	Mark Anderson	Pediatrician	1
+688	Christopher Frey	Orthopedic	8
+689	James Castaneda	Psychiatrist	1
+690	Gregory Harris	Psychiatrist	6
+691	Mark Wallace	Psychiatrist	2
+692	Amanda Roberson	Pediatrician	7
+693	Molly Williams	Oncologist	7
+694	Molly Gaines	Pediatrician	7
+695	Jenny Estrada	ENT Specialist	7
+696	Rodney Mata	ENT Specialist	8
+697	Kevin Alvarez	Dermatologist	2
+698	Derek Boyd	Psychiatrist	2
+699	Monique Barrett	Psychiatrist	2
+700	Dana Lopez	Neurologist	4
+701	Dennis Khan	Dermatologist	1
+702	Amanda Burgess	Psychiatrist	5
+703	Jon Campbell	Psychiatrist	4
+704	Sergio Gibson	Oncologist	4
+705	Jeffrey Gilbert	Dermatologist	2
+706	Theresa Wolf	Neurologist	3
+707	Katherine Barker	Neurologist	5
+708	Joseph Williams	Dermatologist	7
+709	Jay Young	Orthopedic	1
+710	Joseph Herman	Neurologist	6
+711	Roger Waters	Oncologist	1
+712	Daniel Hansen	Neurologist	5
+713	Kristin Bailey	Pediatrician	3
+714	Jason Ray	Pediatrician	3
+715	Marco Montoya	Psychiatrist	6
+716	Jackie Salazar	Dermatologist	8
+717	Hunter Hall MD	Oncologist	4
+718	Debra Jackson	Dermatologist	3
+719	Toni Fisher	ENT Specialist	1
+720	Brent Boyd	ENT Specialist	2
+721	Hannah Cook	ENT Specialist	5
+722	Kristina Webster	Neurologist	5
+723	Alexander Hayes	ENT Specialist	8
+724	Jessica Fields	Psychiatrist	5
+725	Diana Nguyen	ENT Specialist	6
+726	Richard Brown	Neurologist	6
+727	Jaime Miller	Orthopedic	3
+728	Amy Young	Orthopedic	2
+729	Alexander Russell	Pediatrician	8
+730	Christy Mayo	Orthopedic	8
+731	Donna Bruce	Pediatrician	5
+732	Rhonda Daniel	Dermatologist	8
+733	Cory Mitchell	Dermatologist	2
+734	Erica Morales	Neurologist	4
+735	James Kerr	Neurologist	2
+736	Courtney Gonzales	Neurologist	7
+737	Kathryn Reynolds	Pediatrician	5
+738	Ariel Turner	Dermatologist	5
+739	Katelyn Miller	Psychiatrist	6
+740	Jennifer Dixon	Pediatrician	8
+741	Karen Spencer	Cardiologist	2
+742	Richard Wheeler	Psychiatrist	6
+743	Greg Gomez	Dermatologist	6
+744	Ashley Jones	Cardiologist	2
+745	Tiffany Jenkins	Neurologist	4
+746	Maria Thomas	ENT Specialist	5
+747	Joshua Proctor	Dermatologist	6
+748	Brent Barr	Psychiatrist	4
+749	Taylor Ramos	Psychiatrist	5
+750	Linda Harmon	Dermatologist	2
+751	Robert Williams	Orthopedic	7
+752	Catherine Bowman	Psychiatrist	1
+753	Eric Scott	Oncologist	6
+754	Lisa Garrett	ENT Specialist	6
+755	Julian Harris	Dermatologist	1
+756	Terry Morse	Oncologist	8
+757	Carlos Hudson	Pediatrician	2
+758	Brittany Hicks	Psychiatrist	4
+759	Zachary Mcintosh	ENT Specialist	5
+760	Debra Oconnell	Psychiatrist	1
+761	Christopher Barber	ENT Specialist	4
+762	Beverly Morris	ENT Specialist	5
+763	Megan Snyder	Neurologist	3
+764	Richard Lewis	Dermatologist	6
+765	Justin Williams	ENT Specialist	6
+766	Todd Ramirez	Oncologist	1
+767	David Ramos	Psychiatrist	6
+768	Donald Hill	Oncologist	6
+769	Christopher Ferguson	Neurologist	2
+770	Rebekah Hall	Cardiologist	3
+771	Kimberly Hall	Dermatologist	4
+772	Anthony Weaver	Pediatrician	7
+773	Patricia Taylor	Cardiologist	1
+774	Rebecca Miller DDS	Psychiatrist	2
+775	Joseph Gibson	Orthopedic	3
+776	Jessica Harper	Dermatologist	7
+777	Tracy Robinson	Dermatologist	8
+778	Erin Gray	Cardiologist	2
+779	Michael Ford	Pediatrician	4
+780	Steven Daniels	Pediatrician	4
+781	Kiara Nicholson	Cardiologist	5
+782	Connor Martinez	Dermatologist	2
+783	Margaret Garrett	Oncologist	2
+784	Ryan Williams	Cardiologist	5
+785	Andrew Petersen	Orthopedic	3
+786	Aaron Ward	Dermatologist	8
+787	Timothy Roberts	Psychiatrist	5
+788	Daniel Spears	Psychiatrist	2
+789	Casey Browning	Neurologist	3
+790	Debra Brown	Cardiologist	6
+791	Janet West	Oncologist	1
+792	Carmen White	Pediatrician	3
+793	Stephen Herring	Pediatrician	1
+794	Keith Graves	Neurologist	6
+795	Debra Stuart	Psychiatrist	2
+796	Alyssa Harris	Psychiatrist	8
+797	Bryan Mason	ENT Specialist	2
+798	Mrs. Emily Day	ENT Specialist	3
+799	Jade Smith	Dermatologist	1
+800	Susan Simpson	Pediatrician	8
+801	Mr. Ryan Mercer	Pediatrician	3
+802	Brett Martinez	Psychiatrist	1
+803	Joe Smith	Oncologist	6
+804	Tony Lopez	Orthopedic	2
+805	Lisa Fitzgerald	Orthopedic	5
+806	Stacey Washington	ENT Specialist	2
+807	Mr. Bradley Gutierrez	Psychiatrist	7
+808	Joseph Vargas	Neurologist	1
+809	Michael Taylor	Pediatrician	1
+810	Michael Jones	Oncologist	5
+811	Destiny Stevens	Orthopedic	8
+812	William Zavala	Neurologist	6
+813	Cindy White	ENT Specialist	7
+814	Carl Garza	Pediatrician	2
+815	Amber Clark	Orthopedic	2
+816	Joshua Romero	ENT Specialist	8
+817	Marie Lawson	Oncologist	5
+818	Patricia Wright	Oncologist	6
+819	Jose Mckee	ENT Specialist	4
+820	Marie Taylor	Pediatrician	7
+821	Paula Martin	Orthopedic	7
+822	Tanya Parker	Psychiatrist	8
+823	Elizabeth Sanchez	ENT Specialist	7
+824	Andrea Cross	Cardiologist	3
+825	Dr. Ryan Austin	Pediatrician	1
+826	Zachary Huff	Cardiologist	1
+827	Derrick Pierce	ENT Specialist	4
+828	Denise Snyder	Dermatologist	8
+829	Jessica Thomas	Dermatologist	5
+830	Joanna Williams	Neurologist	5
+831	Phillip Brooks	Orthopedic	5
+832	Rachel Adams	Psychiatrist	3
+833	Jessica Park	Orthopedic	2
+834	Wanda Phillips	Pediatrician	7
+835	Thomas Espinoza	Neurologist	5
+836	Curtis Wong	Orthopedic	8
+837	Christopher Brown	Oncologist	6
+838	Thomas Young	Psychiatrist	2
+839	Carrie Franklin	Dermatologist	5
+840	Ryan Valencia	Pediatrician	3
+841	Angel Hill	ENT Specialist	2
+842	Ryan Brown	ENT Specialist	4
+843	Whitney Hicks	Neurologist	4
+844	Kristin Bryan	Orthopedic	4
+845	Paul Fry	Pediatrician	3
+846	Robin Williams	Pediatrician	3
+847	Jasmin Farley	Cardiologist	7
+848	Jimmy Galvan	Pediatrician	3
+849	Corey Parker	Orthopedic	3
+850	Nancy Jones	ENT Specialist	6
+851	Charles Freeman	Orthopedic	1
+852	Ashlee Cummings	Neurologist	7
+853	Anne Peterson	Oncologist	7
+854	Stacy Parks	Neurologist	2
+855	Jorge Jones	Oncologist	3
+856	Joshua Simmons	Orthopedic	3
+857	Jennifer Pierce	ENT Specialist	7
+858	Michael Walters	Orthopedic	8
+859	Kathy Lee	Pediatrician	7
+860	Daniel Kelly	ENT Specialist	1
+861	Theresa Edwards	Neurologist	3
+862	Terry Robinson	Orthopedic	6
+863	Heather Taylor	Neurologist	1
+864	Victor Evans	Oncologist	1
+865	Mandy Lamb	ENT Specialist	2
+866	Annette Love	ENT Specialist	8
+867	Melissa Clarke	Dermatologist	4
+868	Sylvia Andrews	Neurologist	8
+869	Raven Spencer	Dermatologist	3
+870	Justin Romero	Psychiatrist	7
+871	Tonya Morgan	Pediatrician	7
+872	Megan Riley	Oncologist	7
+873	Christine Sanchez	Neurologist	1
+874	Patricia Lopez	Neurologist	2
+875	Kristine Myers	Neurologist	1
+876	Veronica Williams	Orthopedic	1
+877	Abigail Garrison	Neurologist	2
+878	James Fox	Orthopedic	4
+879	William Rivera	Neurologist	2
+880	Gary Wheeler	Pediatrician	3
+881	Nicole Snyder	Cardiologist	8
+882	Chad Santos	Psychiatrist	7
+883	Tanner Massey	Oncologist	5
+884	George Miller	Dermatologist	1
+885	Robert Le	Psychiatrist	3
+886	David Davis	Cardiologist	8
+887	Joseph Bradley	Pediatrician	5
+888	Jeremy Clark	Dermatologist	1
+889	Ana Walton	ENT Specialist	1
+890	Luke Donovan	Pediatrician	8
+891	Joshua Mendez	Psychiatrist	3
+892	Guy Bowman	Dermatologist	3
+893	Joshua Mclaughlin	Orthopedic	5
+894	Patrick Boone	Cardiologist	4
+895	Theodore Davis	Dermatologist	7
+896	Kevin Bailey	Oncologist	1
+897	Brandon Wright	ENT Specialist	1
+898	Susan Robles	Dermatologist	2
+899	Wanda Norris	Orthopedic	8
+900	Jacob Mejia	Neurologist	7
+901	Darrell Turner	Orthopedic	5
+902	Melissa Eaton	Dermatologist	8
+903	Robert Fleming	Orthopedic	6
+904	Connie David	ENT Specialist	7
+905	Brian Soto	Psychiatrist	7
+906	Dennis Green	Neurologist	7
+907	Cindy Lucero	Pediatrician	4
+908	Jorge Snow	Orthopedic	8
+909	Vincent Pham	Cardiologist	8
+910	Patricia Schneider	Orthopedic	6
+911	Pamela Wilson	Cardiologist	3
+912	Taylor Reyes	Cardiologist	1
+913	Gerald Castillo	Orthopedic	6
+914	Kathy Welch	Neurologist	5
+915	Michael Burnett	Psychiatrist	2
+916	Thomas Curry	Neurologist	4
+917	Kristen Thompson	Neurologist	5
+918	Timothy Huynh	Psychiatrist	2
+919	Donna Ferguson	Pediatrician	7
+920	Marissa Johnston	Oncologist	8
+921	Frank Ruiz	Neurologist	6
+922	Erika Cook	ENT Specialist	7
+923	Martha King	Dermatologist	4
+924	Don Blevins	ENT Specialist	8
+925	Shawna West	Psychiatrist	5
+926	Cynthia Vasquez	Orthopedic	1
+927	Gina Cooper	Neurologist	6
+928	Laura Howard	Cardiologist	7
+929	Ronnie Gonzalez	Dermatologist	8
+930	Anna Anderson	Orthopedic	6
+931	Lisa Reyes	Dermatologist	6
+932	Amanda Alvarez	ENT Specialist	2
+933	Sydney Brown	Psychiatrist	5
+934	Linda Byrd	ENT Specialist	6
+935	Elizabeth Brown	Neurologist	8
+936	Philip Little	Psychiatrist	7
+937	Nicole Carpenter	Cardiologist	4
+938	Bridget Duke	Pediatrician	6
+939	Carrie Thompson	Cardiologist	5
+940	David Smith	Oncologist	8
+941	Jessica Bryant	Dermatologist	6
+942	Heather Mason	Dermatologist	6
+943	Sierra Browning	Dermatologist	4
+944	Paul Ross	Pediatrician	1
+945	Michelle Evans	Neurologist	3
+946	Stephanie Fowler	Oncologist	2
+947	Mikayla Morris	Psychiatrist	2
+948	Jared Stuart	Pediatrician	1
+949	Monica Garza	Pediatrician	2
+950	Vickie Chase	Dermatologist	6
+951	Jonathan Ortiz	Pediatrician	6
+952	Tyler Cohen	ENT Specialist	2
+953	Phillip Campbell	Cardiologist	5
+954	Brenda Ramirez	ENT Specialist	3
+955	Richard Walters	Psychiatrist	5
+956	Rick Yang	ENT Specialist	3
+957	Joseph Montgomery	Oncologist	5
+958	Heather Alexander	Dermatologist	7
+959	Kyle Mcdonald	Orthopedic	4
+960	Tracy Walker	ENT Specialist	7
+961	Benjamin Lee	Oncologist	4
+962	Nicole Manning	Cardiologist	5
+963	Keith Vasquez	Psychiatrist	6
+964	Cody Huynh	Dermatologist	4
+965	Summer Whitney	ENT Specialist	2
+966	Catherine Mejia	Neurologist	7
+967	Christopher Bridges	Dermatologist	6
+968	Michael Potter	Psychiatrist	6
+969	Seth Williams	Psychiatrist	3
+970	Kelli Taylor	Orthopedic	6
+971	Christopher Hernandez	Cardiologist	3
+972	Mrs. Nicole Griffith	Dermatologist	7
+973	Zachary Gregory	Dermatologist	6
+974	John Fields	Dermatologist	3
+975	Robert Brown	Dermatologist	5
+976	Jason Vasquez	Orthopedic	8
+977	David Coffey	Oncologist	6
+978	Benjamin Leon	Neurologist	8
+979	Rachel Colon	ENT Specialist	8
+980	Blake Alvarez	Pediatrician	5
+981	Paul Miller	Cardiologist	7
+982	Jennifer Hicks	Orthopedic	3
+983	Willie Martinez	Cardiologist	7
+984	Brandon Jones	Neurologist	5
+985	Valerie Gonzalez	Cardiologist	2
+986	Donna Rivera	Pediatrician	1
+987	Tracy Davidson	Dermatologist	1
+988	Brian Davis	Neurologist	4
+989	Laura Watkins	Cardiologist	7
+990	Travis Perry	Neurologist	6
+991	John Perry	Pediatrician	7
+992	Brian Sanders	Psychiatrist	4
+993	Matthew Shannon	Orthopedic	2
+994	Mark Johns	Oncologist	3
+995	Christian Huang	Oncologist	2
+996	David Wang	Pediatrician	3
+997	Debbie Gonzalez	Pediatrician	2
+998	Angela Barber	Cardiologist	3
+999	Amanda Hardin	ENT Specialist	2
+1000	Jennifer Lee	Pediatrician	5
+1001	Jeffrey Flores	Dermatologist	3
+1002	Mary Ross	Orthopedic	3
+1003	Kathryn Arias	Psychiatrist	4
+1004	Jeremy Alvarez	Neurologist	4
+1005	Christine Bennett	Oncologist	7
+1006	Christopher Caldwell	Oncologist	6
+1007	Mr. Gary Owens PhD	Psychiatrist	1
+1008	Harry Smith	Orthopedic	3
+1009	Kristen Sanford	Psychiatrist	1
+1010	Jennifer Miranda	Dermatologist	4
+1011	April Jones	Pediatrician	2
+1012	Jo Carlson	Cardiologist	1
+1013	William Koch	Neurologist	6
+1014	Sharon Garcia	Orthopedic	4
+1015	Anthony Hernandez	ENT Specialist	3
+1016	Andrew Roberts MD	ENT Specialist	8
+1017	Brooke Li	Dermatologist	3
+1018	Vernon Hughes	Orthopedic	4
+1019	Cody Harris	Cardiologist	3
+1020	Jessica Mcknight	Oncologist	7
+1021	Teresa Martinez	Neurologist	8
+1022	Kyle Burton	Dermatologist	8
+1023	Arthur King	Dermatologist	5
+1024	Joshua Johnson	Orthopedic	4
+1025	Bobby Martin	Neurologist	5
+1026	Laura Jackson	Cardiologist	4
+1027	Nicholas Thomas	Pediatrician	2
+1028	Ryan Gray	ENT Specialist	5
+1029	Diana Davenport	Neurologist	6
+1030	Heather Flores	Cardiologist	5
+1031	Randy Garcia	Cardiologist	4
+1032	Amber Wade	Cardiologist	5
+1033	James Humphrey	Cardiologist	2
+1034	Robert Johnson	Cardiologist	8
+1035	Emily Mcdonald	Pediatrician	4
+1036	Jordan Stone	ENT Specialist	3
+1037	Katherine Cole	Pediatrician	8
+1038	Heidi Wilson	Pediatrician	2
+1039	Ann Weber	Pediatrician	7
+1040	Rebecca Davis	Psychiatrist	5
+1041	Scott Roach	Oncologist	3
+1042	Elizabeth Cochran	Orthopedic	6
+1043	Ralph Marsh	Neurologist	8
+1044	James Watson	Orthopedic	2
+1045	Kathy Arias	Pediatrician	4
+1046	Dorothy Salinas	ENT Specialist	8
+1047	Jared Moore	Cardiologist	8
+1048	Lindsey Grant	Oncologist	7
+1049	Frederick Anthony	Neurologist	2
+1050	Allison Brewer	ENT Specialist	5
+1051	Amanda Braun	Pediatrician	8
+1052	Todd Anderson	Cardiologist	6
+1053	Travis Scott	Oncologist	8
+1054	Jerry Dennis	Cardiologist	6
+1055	Raymond Reyes	Pediatrician	7
+1056	Troy Marks	Oncologist	8
+1057	Terry Rivas	Dermatologist	4
+1058	Steven Garcia	Orthopedic	5
+1059	Christian Holloway	Pediatrician	3
+1060	James Lee	Orthopedic	3
+1061	Jessica Henderson	Cardiologist	7
+1062	Crystal Wright	Oncologist	1
+1063	Joseph Green	Oncologist	3
+1064	Linda Bennett	Neurologist	7
+1065	David Weaver	Pediatrician	1
+1066	Erik Murphy	Psychiatrist	4
+1067	Gregory Riley	ENT Specialist	5
+1068	Ann Jackson	Orthopedic	4
+1069	Ryan Mcgrath	ENT Specialist	6
+1070	Brian Hammond	Cardiologist	2
+1071	Jacob Parker	Pediatrician	6
+1072	Paula Weaver	Dermatologist	3
+1073	Kristie Watson	Pediatrician	3
+1074	Adam Lee	Orthopedic	5
+1075	Scott Riley	Neurologist	3
+1076	David Gonzalez	Cardiologist	4
+1077	Karen Brown	Dermatologist	5
+1078	Hannah Cunningham	ENT Specialist	4
+1079	Jennifer Brewer	Oncologist	2
+1080	Luis Long	ENT Specialist	4
+1081	Jose Stone	Orthopedic	6
+1082	Adrian Solomon	ENT Specialist	7
+1083	Matthew Fritz	ENT Specialist	4
+1084	Scott Crawford	Cardiologist	7
+1085	Timothy Prince	Neurologist	2
+1086	Meghan Hill	ENT Specialist	1
+1087	Vanessa Kelly DDS	Pediatrician	2
+1088	Marilyn Copeland	Orthopedic	5
+1089	Diana Ramirez	Orthopedic	4
+1090	Justin Gardner	Neurologist	3
+1091	Vincent Price	Psychiatrist	8
+1092	Lisa Hughes	Psychiatrist	8
+1093	Matthew Petty	Oncologist	8
+1094	Justin Hodge	Psychiatrist	1
+1095	Christopher Brown	ENT Specialist	7
+1096	Eric Vazquez	Orthopedic	7
+1097	John Aguirre	Neurologist	4
+1098	Sandra Baldwin	Orthopedic	7
+1099	Cassandra Hicks	Psychiatrist	3
+1100	Brian Francis	Dermatologist	5
